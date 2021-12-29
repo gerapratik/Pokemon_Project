@@ -1,0 +1,19 @@
+.details__container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.grid-col-span-2 {
+grid-column: span 2 ;
+}
+
+.pokemon__image{
+    display: flex;
+    height: 400px;
+    width:300px;
+}
+.pokemon__name{
+    text-align:center;
+    font-style: oblique;
+    background-color:pink;
+    font-size: large;
+  }

@@ -1,0 +1,15 @@
+
+
+  .name{
+    text-align:center !important;
+    font-style: oblique;
+    background-color:pink;
+  }
+
+
+
+.pokemon__card >image{
+   display :flex;
+    
+
+  } 
